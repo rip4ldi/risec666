@@ -8,7 +8,7 @@
 <p align="center">
 <a href= "https://t.me/risec666"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
 <a href= "https://instagram.com/risec666"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href= "https:/facebook.com/risec666"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href= "https://facebook.com/risec666"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 </p>
 
   <div align="center">
